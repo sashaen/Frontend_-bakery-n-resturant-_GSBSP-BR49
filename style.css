@@ -79,7 +79,7 @@ body {
     }
 
     .navbar {
-        background-image: linear-gradient(to left,rgb(122, 82, 82),rgb(165, 27, 27));
+        background-image: linear-gradient(to left,lightyellow,rgb(243, 174, 46) );
         font-family: fantasy;
         color: bisque;
     }
